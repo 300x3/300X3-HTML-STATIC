@@ -1,0 +1,6 @@
+300X3 complete self-contained website backup
+
+This folder is the only retained website backup in the CURRENT destination.
+Open site/index.html to view the site.
+All images used by the HTML are stored locally under assets/images/.
+No external image URLs remain in the site HTML.
